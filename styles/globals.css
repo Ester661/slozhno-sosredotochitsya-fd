@@ -1,4 +1,7 @@
 /* Глобальные стили для проекта, их можно дополнять и менять по желанию */
+:root {
+  --main-font: IBM Plex mono;
+}
 
 *,
 *::before,
@@ -40,3 +43,5 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
+
+
