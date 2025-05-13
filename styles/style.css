@@ -82,15 +82,13 @@
 }
 
 .header_tit {
-
   color: var(--header-title-color);
   font-weight: 700;
 
-  font-size: var(--small-screen); 
-  
+  font-size: var(--small-screen);
+
   text-shadow: 4px 4px 0px var(--article-bg-color);
   line-height: 82.5%;
-
 }
 
 .header__theme-menu {
@@ -268,7 +266,6 @@
 
 @media (min-width: 768px) {
   .header {
-    
     padding: 20px 20px 20px 0;
   }
 
@@ -377,17 +374,14 @@
   }
 
   .footer-decor {
-
     padding-left: 0px;
     margin-bottom: 20px;
-
   }
 }
 
 @media (min-width: 1024px) {
-
   .header_tit {
-    font-size: var(--big-screen); 
+    font-size: var(--big-screen);
   }
 
   .header__theme-menu-list {
