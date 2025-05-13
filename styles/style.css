@@ -87,6 +87,7 @@
   font-weight: 700;
 
   font-size: var(--small-screen); 
+  
   text-shadow: 4px 4px 0px var(--article-bg-color);
   line-height: 82.5%;
 
