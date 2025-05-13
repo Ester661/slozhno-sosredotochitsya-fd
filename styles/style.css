@@ -276,7 +276,6 @@
   }
 
   .decorated-corner-upper::before {
-    /* точька */
     margin-right: 29px;
     top: 28px;
   }
