@@ -7,11 +7,11 @@
 :root.theme-light {
   --element-hide: hidden;
   --background:url('../images/cover-image-light.png');
-  --bg-color: #FFF1F7;
+  --bg-color:  #fff1f7;
   --text-color: #353430;
   --buttons-text-color:#353430;
-  --header-title-color: #FFC2E6;
-  --article-bg-color: #FF8DCB;
+  --header-title-color: #ffc2e6;
+  --article-bg-color: #ff8dcb;
   --article-text-color: #353430;
   --buttons-border-color: rgb(50 49 45 / 40%);
   --buttons-border-color-light: #353430;
@@ -28,11 +28,11 @@
   :root {
     --element-hide: hidden;
     --background:url('../images/cover-image-light.png');
-    --bg-color: #FFF1F7;
+    --bg-color: #fff1f7;
     --text-color: #353430;
     --buttons-text-color:#353430;
-    --header-title-color: #FFC2E6;
-    --article-bg-color: #FF8DCB;
+    --header-title-color: #ffc2e6;
+    --article-bg-color: #ff8dcb;
     --article-text-color: #353430;
     --buttons-border-color: rgb(50 49 45 / 40%);
     --buttons-border-color-dark: transparent;

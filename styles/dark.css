@@ -9,14 +9,14 @@
   --element-hide: none;
   --background:url('../images/cover-image-dark.png');
   --bg-color: #000028;
-  --text-color: #F1B2CE;
-  --buttons-text-color: #FF0070;
-  --header-title-color: #DB00FF;
-  --article-bg-color: #FF0070;
+  --text-color: #f1b2ce;
+  --buttons-text-color: #ff0070;
+  --header-title-color: #db00ff;
+  --article-bg-color: #ff0070;
   --article-text-color: #000028;
   --buttons-border-color: rgb(255 0 112 / 40%);
   --buttons-border-color-light: transparent;
-  --buttons-border-color-dark: #FF0070;
+  --buttons-border-color-dark: #ff0070;
   --buttons-border-width: 1px;
   --main-font: IBM Plex mono;
   /* сохраните этот селектор в приведённом виде.
